@@ -114,30 +114,9 @@ My day to day work involves full-stack development ranging from frontend to buil
 <br/>  
 
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=arunavo4&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunavo4&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
+## Github Stats 
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <br/>  
 
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=arunavo4&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
