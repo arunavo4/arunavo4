@@ -115,7 +115,7 @@ My day to day work involves full-stack development ranging from frontend to buil
 
 
 ## Github Stats 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide_border=true" /></a> |
+| <a href="https://github.com/arunavo4"><img align="center" src="https://github-readme-stats.vercel.app/api?username=arunavo4&show_icons=true&include_all_commits=true&hide_border=true" alt="Arunavo's github stats" /></a> | <a href="https://github.com/arunavo4"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunavo4&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <br/>  
