@@ -14,16 +14,15 @@
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 
-
+<a href="https://www.credly.com/badges/74cbc266-99ce-438a-b35f-884b14a1c639/public_url" target="_blank">
+<img align="right" src=https://images.credly.com/size/110x110/images/ef2853b2-4faf-4d27-8dec-5ddd71aa82bc/CERT-Associate-Microsoft365-Developer.png alt="Microsoft 365 Certified: Developer Associate" style="float: right;margin-bottom: 5px;" />
+</a> 
 
 <a href="https://www.credly.com/badges/d627265a-de22-4e38-b66e-22c5a3c279ab/public_url" target="_blank">
 <img align="right" src=https://images.credly.com/size/110x110/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png alt="Microsoft Certified: Azure Developer Associate" style="float: right;margin-bottom: 5px;" />
 </a> 
 
-<a href="https://www.credly.com/badges/74cbc266-99ce-438a-b35f-884b14a1c639/public_url" target="_blank">
-<img align="right" src=https://images.credly.com/size/110x110/images/ef2853b2-4faf-4d27-8dec-5ddd71aa82bc/CERT-Associate-Microsoft365-Developer.png alt="Microsoft 365 Certified: Developer Associate" style="float: right;margin-bottom: 5px;" />
-</a> 
-
+<br>
 <br>
 <br>
 
