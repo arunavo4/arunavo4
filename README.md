@@ -27,7 +27,7 @@
 <br>
 
 ### Glad to see you here!  
-I’m a full-stack developer currently working full-time with Microsoft. In my free time I like to work on Trading Bots ranging from Reinforcement Learning, Supervised CNN based bots, NEAT/GA based bots and plain old Algo-Trading. I also like to contribute to exciting projects in the Crypto Trading world. 
+I’m a full-stack developer currently working full-time with Microsoft. In my free time I like to work on NFT Projects Building Metaplex CandyMachine@Solana, Trading Bots ranging from Reinforcement Learning, Supervised CNN based bots, NEAT/GA based bots and plain old Algo-Trading. I also like to contribute to exciting projects in the Crypto Trading world. 
 
 My day to day work involves full-stack development ranging from frontend to building highly scalable and available dotnet core API's, doing fully automated CI/CD Pipelines in Azure DevOps, Deploying to Multi-Cloud Environments(Azure, GCP AWS). 
 
@@ -37,15 +37,15 @@ My day to day work involves full-stack development ranging from frontend to buil
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on Trading Bots. Also contributing to [FreqTrade](https://github.com/freqtrade/freqtrade).
-
-- 🌱 I’m currently learning Blockchain Technologies.
-
-<!-- - 👯 I’m looking to collaborate on ... -->
+- 🔭 I’m currently working on NFT Projects and DAO's.
+  
+- 👯 I’m looking to collaborate on NFT Projects, Defi Platforms.
+  
+- 🌱 I’m actively learning more Blockchain Technologies.
   
 <!-- - 🤔 I’m looking for help with ... -->
   
-- 💬 Ask me about Trading Bots, DL/AI/ML, Full-Stack.
+- 💬 Ask me about NFT's, DAO's, Trading Bots, DL/AI/ML, Full-Stack.
   
 - ⚡ Fun fact: Hmm... 
 
