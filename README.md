@@ -37,7 +37,7 @@ My day to day work involves full-stack development ranging from frontend to buil
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on NFT Projects and DAO's.
+  - 🔭 Something I’m working on <a href="https://intothemetaverse.games/" target="_blank">intothemetaverse.games</a>.
   
 - 👯 I’m looking to collaborate on NFT Projects, Defi Platforms.
   
