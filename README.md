@@ -10,9 +10,14 @@
 <a href="https://linkedin.com/in/arunavo-ray" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+<a href="https://www.canva.com/design/DAFFRrcAdSc/BMgqaelmABvBwFWddMCRBg/view?utm_content=DAFFRrcAdSc&utm_campaign=designshare&utm_medium=link&utm_source=viewer" target="_blank">
+<img src=https://img.shields.io/badge/Resume-%2300C4CC.svg?&style=for-the-badge&logo=canva&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>
+
+<!--
 <a href="https://stackoverflow.com/users/arunavo-ray" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>  
+</a>  -->
 
 <a href="https://www.credly.com/badges/74cbc266-99ce-438a-b35f-884b14a1c639/public_url" target="_blank">
 <img align="right" src=https://images.credly.com/size/110x110/images/ef2853b2-4faf-4d27-8dec-5ddd71aa82bc/CERT-Associate-Microsoft365-Developer.png alt="Microsoft 365 Certified: Developer Associate" style="float: right;margin-bottom: 5px;" />
