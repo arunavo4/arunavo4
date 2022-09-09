@@ -27,11 +27,11 @@
 <br>
 
 ### Glad to see you here!  
-I’m a full-stack developer currently working towards building a Dev-Studio. Recently left my job with Microsoft to pursue this full-time. I have experience building large scale projects. I have worked on Web/Desktop projects to Mobile Apps.
+I’m a full-stack developer currently working towards building a Dev-Studio. Recently left my job with Microsoft to pursue this full-time. I have experience building large scale projects. I have worked on Web/Desktop projects to Mobile Apps. Currently I am working on a Blockchain Wallet.
 
 My day to day work at microsoft involved full-stack development ranging from frontend to building highly scalable and available dotnet core API's, doing fully automated CI/CD Pipelines in Azure DevOps, Deploying to Multi-Cloud Environments(Azure, GCP AWS). 
 
-Currently I am working on a Blockchain Wallet, If you want to collaborate or have interesting ideas you want to talk about, feel free to reach out to me on <a href="mailto:developer@arunavoray.dev" target="_blank">Email</a>.
+If you want to collaborate or have interesting ideas you want to talk about, feel free to reach out to me on <a href="mailto:developer@arunavoray.dev" target="_blank">Email</a>.
 
 <br/>  
 
