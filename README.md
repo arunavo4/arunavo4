@@ -27,9 +27,11 @@
 <br>
 
 ### Glad to see you here!  
-I’m a full-stack developer currently working full-time with Microsoft. In my free time I like to work on NFT Projects Building Metaplex CandyMachine@Solana, Trading Bots ranging from Reinforcement Learning, Supervised CNN based bots, NEAT/GA based bots and plain old Algo-Trading. I also like to contribute to exciting projects in the Crypto Trading world. 
+I’m a full-stack developer currently working towards building a Dev-Studio. Recently left my job with Microsoft to pursue this full-time. I have experience building large scale projects. I have worked on Web/Desktop projects to Mobile Apps.
 
-My day to day work involves full-stack development ranging from frontend to building highly scalable and available dotnet core API's, doing fully automated CI/CD Pipelines in Azure DevOps, Deploying to Multi-Cloud Environments(Azure, GCP AWS). 
+My day to day work at microsoft involved full-stack development ranging from frontend to building highly scalable and available dotnet core API's, doing fully automated CI/CD Pipelines in Azure DevOps, Deploying to Multi-Cloud Environments(Azure, GCP AWS). 
+
+Currently I am working on a Blockchain Wallet, If you want to collaborate or have interesting ideas you want to talk about, feel free to reach out to me on <a href="mailto:developer@arunavoray.dev" target="_blank">Email</a>.
 
 <br/>  
 
@@ -37,17 +39,17 @@ My day to day work involves full-stack development ranging from frontend to buil
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-  - 🔭 Something I’m working on <a href="https://intothemetaverse.games/" target="_blank">intothemetaverse.games</a>.
+  - 🔭 Something I’m working on <a href="https://www.gameplex.games/" target="_blank">Gameplex Wallet</a>.
   
-- 👯 I’m looking to collaborate on NFT Projects, Defi Platforms.
+- 👯 I’m looking to collaborate on Interesting Developemnt Projects.
   
-- 🌱 I’m actively learning more Blockchain Technologies.
+<!-- - 🌱 I’m actively learning to be a better Developer. -->
   
 <!-- - 🤔 I’m looking for help with ... -->
   
-- 💬 Ask me about NFT's, DAO's, Trading Bots, DL/AI/ML, Full-Stack.
+- 💬 Ask me about Full-Stack, DL/AI/ML, NFT's, DAO's, Trading Bots.
   
-- ⚡ Fun fact: Hmm... 
+- ⚡ Fun fact: Something I built in a day <a href="https://intothemetaverse.games/" target="_blank">intothemetaverse.games</a>.
 
 </td><td valign="top" width="50%">
 
