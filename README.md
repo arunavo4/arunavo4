@@ -54,7 +54,7 @@ If you want to collaborate or have interesting ideas you want to talk about, fee
   
 - 💬 Ask me about Full-Stack, DL/AI/ML, NFT's, DAO's, Trading Bots.
   
-- ⚡ Fun fact: Something I built in a day <a href="https://intothemetaverse.games/" target="_blank">intothemetaverse.games</a>.
+- ⚡ Fun fact: Something I built in a day <a href="https://into-the-metaverse.vercel.app" target="_blank">intothemetaverse.games</a>.
 
 </td><td valign="top" width="50%">
 
