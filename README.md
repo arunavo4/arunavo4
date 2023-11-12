@@ -40,7 +40,7 @@ Hi there! I'm deeply into both full-stack development and AI. After spending som
 - Let's connect on [LinkedIn](https://linkedin.com/in/arunavo-ray) and share our professional experiences.
 
 📧 **Keen to Collaborate?**
-Got a cool idea or a project you're pumped about? I'm all ears for collaboration and new challenges. Drop me a line at [Email](mailto:developer@arunavoray.dev).
+Got a cool idea or a project you're pumped about? I'm all ears for collaboration and new challenges. Drop me a line at [developer@arunavoray.dev](mailto:developer@arunavoray.dev).
 
 ## Quick Hits 🔥
 
