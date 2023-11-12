@@ -40,6 +40,7 @@ Hi there! I'm deeply into both full-stack development and AI. After spending som
 - Let's connect on [LinkedIn](https://linkedin.com/in/arunavo-ray) and share our professional experiences.
 
 🤝 **Interested in Teaming Up?**
+
 If you've got an interesting project in mind, especially if it's in the realm of web design or AI automation, I'd love to hear about it. I enjoy tackling new challenges and brainstorming innovative solutions. Feel free to reach out for a casual chat or a more in-depth discussion. Just send me a message at [developer@arunavoray.dev](mailto:developer@arunavoray.dev), and let's see where our conversation takes us!
 
 ## Quick Hits 🔥
