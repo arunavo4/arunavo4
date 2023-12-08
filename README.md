@@ -62,7 +62,7 @@ If you've got an interesting project in mind, especially if it's in the realm of
 - The world of blockchain
 
 ## My Github Footprint 🌍
-| <a href="https://github.com/arunavo4"><img align="center" src="https://github-readme-stats.vercel.app/api?username=arunavo4&show_icons=true&include_all_commits=true&hide_border=true" alt="Arunavo's github stats" /></a> | <a href="https://github.com/arunavo4"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunavo4&layout=compact&hide_border=true" /></a> |
+| <a href="https://github.com/arunavo4"><img align="center" src="https://github-readme-stats-pied-pi.vercel.app/api?username=arunavo4&show_icons=true&include_all_commits=true&hide_border=true" alt="Arunavo's github stats" /></a> | <a href="https://github.com/arunavo4"><img align="center" src="https://github-readme-stats-pied-pi.vercel.app/api/top-langs/?username=arunavo4&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <br/>  
