@@ -25,18 +25,17 @@
 Hi there! I'm deeply into both full-stack development and AI. After spending some time at Microsoft, I've taken the leap into entrepreneurship. My focus now is on AI automation and building SaaS products. I'm really excited about making AI interactions user-friendly and intuitive, especially through great UI/UX design.
 
 👨‍💻 **What I'm Focused On:**
-- Sharing AI and Machine Learning knowledge through videos on [YouTube](#).
-- Building a top-notch SaaS platform for a better LLM experience.
+- Sharing AI and Web Development knowledge on X.
+- Building a Micro SaaS platform for a better LLM experience.
 - Designing custom web solutions and AI automation tools.
 
 💼 **What I Bring to the Table:**
-- A strong background in full-stack development, AI Automation, LLMs, and cloud tech.
+- A strong background in full-stack development, AI Automation, LLMs, DevOps, and Cloud.
 - Guidance for businesses looking to leverage AI automation.
 - A track record of innovative projects that showcase my problem-solving skills.
 
 📈 **Join My Journey:**
 - Follow my path from $0 to $100k and get industry insights on [Twitter](https://twitter.com/ArunavoRay).
-- Check out my take on AI and tech trends over at my [YouTube Channel](#).
 - Let's connect on [LinkedIn](https://linkedin.com/in/arunavo-ray) and share our professional experiences.
 
 🤝 **Interested in Teaming Up?**
@@ -48,7 +47,6 @@ If you've got an interesting project in mind, especially if it's in the realm of
 - 🔭 Currently exploring: SaaS Development with an AI twist in UI/UX.
 - 👯 Collaborating on: Boundary-pushing tech projects.
 - 💬 Ask me about: Integrating AI/ML, web dev, or starting out in digital entrepreneurship.
-- ⚡ Fun fact: Once built a metaverse experience in a single day! Check it out [IntoTheMetaverse.Games](https://into-the-metaverse.vercel.app).
 
 ## My Toolbox 💻
 
