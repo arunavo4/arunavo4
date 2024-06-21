@@ -9,7 +9,7 @@
 <a href="https://linkedin.com/in/arunavo-ray" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.canva.com/design/DAFFRrcAdSc/BMgqaelmABvBwFWddMCRBg/view?utm_content=DAFFRrcAdSc&utm_campaign=designshare&utm_medium=link&utm_source=viewer" target="_blank">
+<a href="https://www.canva.com/design/DAFawAD_pN0/ChiazaPAYiZmmlTP652okQ/view?utm_content=DAFawAD_pN0&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank">
 <img src=https://img.shields.io/badge/Resume-%2300C4CC.svg?&style=for-the-badge&logo=canva&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
 
